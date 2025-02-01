@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'lakeshoredriveregular';
+  font-family: 'LAKESHOR';
   src: url('./font/LAKESHOR-webfont.eot');
   src: url('./font/LAKESHOR-webfont.eot?#iefix') format('embedded-opentype'),
        url('./font/LAKESHOR-webfont.woff2') format('woff2'),
@@ -11,7 +11,7 @@
 
 }
 @font-face {
-  font-family: 'airstreamregular';
+  font-family: 'Airstream';
   src: url('./font/Airstream-webfont.eot');
   src: url('./font/Airstream-webfont.eot?#iefix') format('embedded-opentype'),
        url('./font/Airstream-webfont.woff2') format('woff2'),
